@@ -1,4 +1,4 @@
-package test.java.com.ninafausto.pontointeligente.com.ninafausto.pontointeligente.api.repositories;
+package com.ninafausto.pontointeligente.api.services
 
 import static org.junit.Assert.assertEquals;
 
